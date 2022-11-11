@@ -1,0 +1,169 @@
+.header .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ .style .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+.product .wrapper
+ {
+	width:90%;
+    margin:auto;	
+ }
+.copyright .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ 
+.header
+ {
+	 background-color:salmon;
+	 height:60px;
+ }
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .start
+{
+	
+	margin-top:15px;
+	background-color:white;
+	width:10%;
+	height:30px;
+}
+.header .header-fc .home
+{
+
+	margin-top:15px;
+	background-color:white;
+	width:10%;
+	height:30px;
+}
+.header .header-fc .cart
+{
+	margin-left:500px;
+	margin-top:15px;
+	background-color:white;
+	width:10%;
+	height:30px;
+}
+.style
+ {
+    background-color:Lavender;
+	height:350px; 
+ }
+.style .style-fc
+{
+	display:flex;
+    justify-content:center;
+}
+.style .style-fc .shop
+{
+	margin-top:100px;
+	background-color:white;
+    width:40%;
+    height:150px;
+}
+.product
+ {
+	 background-color:pink;
+	 height:950px;
+ }
+  .product .product-fc
+  {
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-between;
+ }
+ 
+   .product .product-fc .fancy-product
+ {
+	 margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+ 
+   .product .product-fc .special-item
+ {
+	 margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+   .product .product-fc .sale-item
+ {
+	  margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+ 
+   .product .product-fc .popular-item
+ {
+	  margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+ 
+  .product .product-fc .sale-item 
+{
+     margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+ 
+  .product .product-fc .fancy-product
+ {
+	 margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+	 
+ }
+ 
+  .product .product-fc .special-item
+ {
+	 margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px;
+ }
+ 
+  .product .product-fc .popular-item
+ {
+	 margin-top:50px;
+	 background-color:lightgreen;
+	 width:23%;
+	 height:400px; 
+ }
+ .copyright
+ {
+	 background-color:coral;
+	 height:116px; 
+ }
+  .copyright .copyright-fc
+  {
+	  display:flex;
+	  justify-content:center;
+  }
+    .copyright .copyright-fc .copyrights
+	{
+		margin-top:30px;
+	 background-color:red;
+	 width:20%;
+	 height:50px; 
+	}
